@@ -103,18 +103,10 @@
             <img src="https://respostas.sebrae.com.br/wp-content/uploads/2019/10/1-2-959x615.jpg" alt="Robô de Automação de Suporte">
             <h2>Robô de Automação de Suporte</h2>
             <p>Forneça suporte ao cliente automatizado e resolva problemas rapidamente. Melhore a satisfação do cliente.</p>
-            <p>Preço: $89.99</p>
-            <button onclick="comprarSuporte()">Comprar Agora</button>
+            <p>Preço: $49.99</p>
+            <a href="https://api.whatsapp.com/send?phone=48999626351" target="_blank"><button>Comprar Agora</button></a>
         </div>
         
-
-        <div class="robot">
-            <img src="https://fleeg.com/wp-content/uploads/automa%C3%A7%C3%A3o-de-marketing.png" alt="Robô de Automação de Marketing">
-            <h2>Robô de Automação de Marketing</h2>
-            <p>Automatize suas campanhas de marketing e alcance seu público-alvo de forma eficiente. Aumente suas vendas e conversões.</p>
-            <p>Preço: $149.99</p>
-            <a href="site" target="_blank"><button>Comprar Agora</button></a>
-        </div>
 
                 <div class="robot">
             <img src="https://static-media.hotmart.com/AHUV4mzqZK8vZlvzXGZTf-ugQPo=/600x0/filters:background_color(white)/hotmart/product_pictures/c1d83179-ea26-4cb6-8011-300e195276fc/maxresdefault.jpg" alt="curso Automação Python">
