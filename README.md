@@ -86,7 +86,7 @@
             <p>Impulsione suas postagens instantaneamente com o nosso Robô de Automação de Curtidas!</p>
             <p>Ganhe curtidas automáticas e destaque-se nas redes sociais. Deixe o robô fazer o trabalho pesado para você.</p>
             <p>Preço: $22.99</p>
-            <a href="#site" target="_blank"><button>Comprar Agora</button></a>
+            <a href="https://go.hotmart.com/W86904094Q" target="_blank"><button>Comprar Agora</button></a>
         </div>
         
 
