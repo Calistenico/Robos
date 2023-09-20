@@ -115,6 +115,16 @@
             <p>Preço: $149.99</p>
             <a href="site" target="_blank"><button>Comprar Agora</button></a>
         </div>
+
+                <div class="robot">
+            <img src="https://static-media.hotmart.com/AHUV4mzqZK8vZlvzXGZTf-ugQPo=/600x0/filters:background_color(white)/hotmart/product_pictures/c1d83179-ea26-4cb6-8011-300e195276fc/maxresdefault.jpg" alt="curso Automação Python">
+            <h2>como criar Robôs de Automação</h2>
+            <p>crie seu Robo para trabalhar noque voce deseja!</p>
+            <p>Ganhe mais tempo com robô fazendo o trabalho para você, automatize tudo.</p>
+            <p>Preço: $ 30.00</p>
+            <a href="https://pay.hotmart.com/V86611623Q" target="_blank"><button>Comprar Agora</button></a>
+        </div>
+        
         
 
     <script>
