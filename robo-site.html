@@ -138,5 +138,3 @@
             alert("Você comprou o Robô de Automação de Suporte!");
         }
     </script>
-</body>
-</html>
