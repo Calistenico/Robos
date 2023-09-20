@@ -86,7 +86,7 @@
             <p>Impulsione suas postagens instantaneamente com o nosso Robô de Automação de Curtidas!</p>
             <p>Ganhe curtidas automáticas e destaque-se nas redes sociais. Deixe o robô fazer o trabalho pesado para você.</p>
             <p>Preço: $22.99</p>
-            <a href="site" target="_blank"><button>Comprar Agora</button></a>
+            <a href="#site" target="_blank"><button>Comprar Agora</button></a>
         </div>
         
 
@@ -95,7 +95,7 @@
             <h2>Robô Sinais da Roleta</h2>
             <p>Receba sinais altamente precisos para a roleta brasileira com nosso robô especializado.</p>
             <p>Preço: $69.99</p>
-            <button onclick="comprarFinanceira()">Comprar Agora</button>
+            <a href="https://go.hotmart.com/K86904999G" target="_blank"><button>Comprar Agora</button></a>
         </div>
         
 
