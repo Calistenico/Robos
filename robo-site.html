@@ -74,7 +74,7 @@
             <p>Transforme suas redes sociais com o nosso Robô de Automação de Comentários!</p>
             <p>Aumente o engajamento com seus seguidores e melhore sua visibilidade automaticamente. Deixe o robô cuidar dos comentários enquanto você se concentra no que realmente importa.</p>
             <p>Preço: $24.99</p>
-            <a href="https://go.hotmart.com/Q86903707V" target="_blank"><button>Comprar Agora</button></a>
+            <a href="https://pay.hotmart.com/Q86903707V" target="_blank"><button>Comprar Agora</button></a>
         </div>
         
 
@@ -86,7 +86,7 @@
             <p>Impulsione suas postagens instantaneamente com o nosso Robô de Automação de Curtidas!</p>
             <p>Ganhe curtidas automáticas e destaque-se nas redes sociais. Deixe o robô fazer o trabalho pesado para você.</p>
             <p>Preço: $22.99</p>
-            <a href="https://go.hotmart.com/W86904094Q" target="_blank"><button>Comprar Agora</button></a>
+            <a href="https://pay.hotmart.com/W86904094Q" target="_blank"><button>Comprar Agora</button></a>
         </div>
         
 
@@ -95,7 +95,7 @@
             <h2>Robô Sinais da Roleta</h2>
             <p>Receba sinais altamente precisos para a roleta brasileira com nosso robô especializado.</p>
             <p>Preço: $69.99</p>
-            <a href="https://go.hotmart.com/K86904999G" target="_blank"><button>Comprar Agora</button></a>
+            <a href="https://pay.hotmart.com/K86904999G" target="_blank"><button>Comprar Agora</button></a>
         </div>
         
 
