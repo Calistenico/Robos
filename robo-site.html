@@ -71,39 +71,33 @@
         <div class="robot">
             <img src="https://roboo.com.br/wp-content/uploads/2020/06/automacao-de-processos-roboticos-002.jpg" alt="Robô de Automação de Comentários">
             <h2>Robô de Automação de Comentários</h2>
-            <p>Revolucione suas redes sociais com nosso Robô de Automação de Comentários!</p>
-            <p>Aumente seu engajamento com seguidores e melhore sua visibilidade de forma automática. Deixe o robô cuidar dos comentários enquanto você se concentra no que realmente importa.</p>
+            <p>Transforme suas redes sociais com o nosso Robô de Automação de Comentários!</p>
+            <p>Aumente o engajamento com seus seguidores e melhore sua visibilidade automaticamente. Deixe o robô cuidar dos comentários enquanto você se concentra no que realmente importa.</p>
             <p>Preço: $24.99</p>
             <a href="https://go.hotmart.com/Q86903707V" target="_blank"><button>Comprar Agora</button></a>
-    </div>
+        </div>
+        
+
     
 
         <div class="robot">
             <img src="https://www.uptown.com.br/wp-content/uploads/2020/10/Artigo17_atomacao_sm_capa.png" alt="Robô de Automação de Curtidas">
             <h2>Robô de Automação de Curtidas</h2>
-            <p>Incremente suas postagens instantaneamente com nosso Robô de Automação de Curtidas!</p>
-            <p>Ganhe curtidas automáticas e impulsione seu conteúdo nas redes sociais. Deixe o robô fazer o trabalho pesado enquanto você se destaca na multidão.</p>
+            <p>Impulsione suas postagens instantaneamente com o nosso Robô de Automação de Curtidas!</p>
+            <p>Ganhe curtidas automáticas e destaque-se nas redes sociais. Deixe o robô fazer o trabalho pesado para você.</p>
             <p>Preço: $22.99</p>
             <a href="site" target="_blank"><button>Comprar Agora</button></a>
         </div>
-    </div>
-
-    <div class="container">
-        <div class="robot">
-            <img src="https://fleeg.com/wp-content/uploads/automa%C3%A7%C3%A3o-de-marketing.png" alt="Robô de Automação de Marketing">
-            <h2>Robô de Automação de Marketing</h2>
-            <p>Automatize suas campanhas de marketing e alcance seu público-alvo de forma eficiente. Aumente suas vendas e conversões.</p>
-            <p>Preço: $149.99</p>
-            <button onclick="comprarMarketing()">Comprar Agora</button>
-        </div>
+        
 
         <div class="robot">
-            <img src="https://enotas.com.br/blog/wp-content/uploads/2020/12/eNotas_Capas_Blogposts_11.png" alt="Robô de Automação Financeira">
-            <h2>Robô de Automação Financeira</h2>
-            <p>Automatize tarefas financeiras, como faturamento e gestão de contas. Mantenha suas finanças em ordem e economize tempo.</p>
-            <p>Preço: $129.99</p>
+            <img src="https://www.datocms-assets.com/102406/1693308332-quanto-paga-o-0-na-roleta.jpg" alt="Robô Sinais da Roleta">
+            <h2>Robô Sinais da Roleta</h2>
+            <p>Receba sinais altamente precisos para a roleta brasileira com nosso robô especializado.</p>
+            <p>Preço: $69.99</p>
             <button onclick="comprarFinanceira()">Comprar Agora</button>
         </div>
+        
 
         <div class="robot">
             <img src="https://respostas.sebrae.com.br/wp-content/uploads/2019/10/1-2-959x615.jpg" alt="Robô de Automação de Suporte">
@@ -112,7 +106,16 @@
             <p>Preço: $89.99</p>
             <button onclick="comprarSuporte()">Comprar Agora</button>
         </div>
-    </div>
+        
+
+        <div class="robot">
+            <img src="https://fleeg.com/wp-content/uploads/automa%C3%A7%C3%A3o-de-marketing.png" alt="Robô de Automação de Marketing">
+            <h2>Robô de Automação de Marketing</h2>
+            <p>Automatize suas campanhas de marketing e alcance seu público-alvo de forma eficiente. Aumente suas vendas e conversões.</p>
+            <p>Preço: $149.99</p>
+            <a href="site" target="_blank"><button>Comprar Agora</button></a>
+        </div>
+        
 
     <script>
         function comprarComentarios() {
