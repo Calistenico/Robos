@@ -155,10 +155,13 @@
         <span style="color: rgb(5, 3, 3);">da</span>
         <span style="color: rgb(150, 5, 5);">Roleta</span>
         <span style="color: rgb(5, 3, 3);">!</span>
-        <iframe width="636" height="360" src="https://www.youtube.com/embed/VVsg9aGyDrc" title="HACKER DA ROLETA BRASILEIRA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
     </h1>
     <div class="button-container">
+        <div class="copy-section">
+            <h2>🏴‍☠️ Entre na Sala de Sinais Grátis do Pirata!</h2>
+            <p>🚀 Limite de até 20 sinais por dia.  </p>
+            <p>Aproveite esta oportunidade exclusiva e junte-se agora! 🏴‍☠️💰</p>
         <a href="https://t.me/sinaisdaroletapirata" target="_blank"><button>GRUPO SINAIS FREE</button></a>
     </div>
     <div class="copy-section">
@@ -170,7 +173,26 @@
         <p>✅ Suporte dedicado para seus objetivos financeiros</p>
         <p>Apenas 💲20/mês para maximizar seus lucros!</p>
         <p>Junte-se agora e invista com confiança! 💰</p>
-        <button><a href="https://wa.me/5548999626351" target="_blank">Junte-se Agora</a></button>
+        <button><a href="https://wa.me/5548999626351" target="_blank" style="text-decoration: none; color: white;">Junte-se Agora</a></button>
+        <style>
+            /* Estilos para o botão */
+            button {
+                background-color: #FF5733; /* Cor de fundo vermelha */
+                color: white; /* Cor do texto branca */
+                font-size: 24px; /* Tamanho da fonte maior */
+                padding: 15px 30px; /* Espaçamento interno maior para o botão */
+                border: none;
+                border-radius: 5px;
+                cursor: pointer;
+                transition: background-color 0.3s;
+            }
+        
+            /* Estilos quando o cursor passa sobre o botão */
+            button:hover {
+                background-color: #460202; /* Mudança de cor quando o cursor passa sobre o botão */
+            }
+        </style>
+        
     </div>
 
 
@@ -222,6 +244,8 @@
             <img src="https://i.pinimg.com/750x/72/d1/e0/72d1e00dab87536057bc38e6334e5f1d.jpg" alt="Membro do Grupo FREE">
             <p>WIN</p>
         </div>
+
+        <iframe width="636" height="360" src="https://www.youtube.com/embed/VVsg9aGyDrc" title="HACKER DA ROLETA BRASILEIRA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
         <!-- Adicione mais depoimentos conforme necessário -->
     </div>
