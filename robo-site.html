@@ -163,8 +163,7 @@
             <p>🚀 Limite de até 20 sinais por dia.  </p>
             <p>Aproveite esta oportunidade exclusiva e junte-se agora! 🏴‍☠️💰</p>
         <a href="https://t.me/sinaisdaroletapirata" target="_blank"><button>GRUPO SINAIS FREE</button></a>
-    </div>
-    <div class="copy-section">
+
         <h2>🏴‍☠️ Junte-se ao Grupo VIP Pirata Black! 🏴‍☠️</h2>
         <p>Pronto para elevar seus investimentos ao próximo nível?</p>
         <p>✅ Sinais de Roleta 24/7 para lucros oportunos</p>
