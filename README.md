@@ -157,22 +157,6 @@
         <span style="color: rgb(5, 3, 3);">!</span>
 
     </h1>
-    <div class="button-container">
-        <div class="copy-section">
-            <h2>🏴‍☠️ Entre na Sala de Sinais Grátis do Pirata!</h2>
-            <p>🚀 Limite de até 20 sinais por dia.  </p>
-            <p>Aproveite esta oportunidade exclusiva e junte-se agora! 🏴‍☠️💰</p>
-        <a href="https://t.me/sinaisdaroletapirata" target="_blank"><button>GRUPO SINAIS FREE</button></a>
-
-        <h2>🏴‍☠️ Junte-se ao Grupo VIP Pirata Black! 🏴‍☠️</h2>
-        <p>Pronto para elevar seus investimentos ao próximo nível?</p>
-        <p>✅ Sinais de Roleta 24/7 para lucros oportunos</p>
-        <p>✅ Análises em tempo real por especialistas</p>
-        <p>✅ Oportunidades exclusivas para membros VIP</p>
-        <p>✅ Suporte dedicado para seus objetivos financeiros</p>
-        <p>Apenas 💲20/mês para maximizar seus lucros!</p>
-        <p>Junte-se agora e invista com confiança! 💰</p>
-        <button><a href="https://wa.me/5548999626351" target="_blank" style="text-decoration: none; color: white;">Junte-se Agora</a></button>
         <style>
             /* Estilos para o botão */
             button {
@@ -254,6 +238,24 @@
             <img src="https://i.pinimg.com/750x/fa/bd/74/fabd749a029bb6450a3b31ffea22293e.jpg" alt="Membro do Grupo FREE">
             <p>Os sinais deste robô são incrivelmente precisos!</p>
         </div>
+        <div class="button-container">
+            <h2>🏴‍☠️ Junte-se ao Grupo VIP Pirata Black! 🏴‍☠️</h2>
+            <p>Pronto para elevar seus investimentos ao próximo nível?</p>
+            <p>✅ Sinais de Roleta 24/7 para lucros oportunos</p>
+            <p>✅ Análises em tempo real por especialistas</p>
+            <p>✅ Oportunidades exclusivas para membros VIP</p>
+            <p>✅ Suporte dedicado para seus objetivos financeiros</p>
+            <p>Apenas 💲20/mês para maximizar seus lucros!</p>
+            <p>Junte-se agora e invista com confiança! 💰</p>
+            <button><a href="https://wa.me/5548999626351" target="_blank" style="text-decoration: none; color: white;">Junte-se Agora</a></button>
+    
+            <div class="copy-section">
+                <h2>🏴‍☠️ Entre na Sala de Sinais Grátis do Pirata!</h2>
+                <p>🚀 Limite de até 20 sinais por dia.  </p>
+                <p>Aproveite esta oportunidade exclusiva e junte-se agora! 🏴‍☠️💰</p>
+            <a href="https://t.me/sinaisdaroletapirata" target="_blank"><button>GRUPO SINAIS FREE</button></a>
+    
+
         <h2>Como Funciona Os SINAIS</h2>
         <div class="testimonial">
             <img src="https://i.pinimg.com/750x/83/c2/95/83c295be98b9096db63a64ba95f72cc1.jpg" alt="Membro do Grupo FREE">
