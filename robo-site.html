@@ -186,8 +186,8 @@
             <img src="https://assets.playtech.com/application/files/8915/9662/2643/playtech_pokerstars_spain_spinwin.jpg?version=1684399371" alt="Robô Sinais da Roleta">
             <h2>Robo para mesa "Spin e Win Rolette"</h2>
             <p>Receba sinais altamente precisos para a roleta Spin e Win com nosso robô especializado.</p>
-            <p>Preço: $69.99</p>
-            <a href="#sitecompra" target="_blank"><button>Comprar Agora</button></a>
+            <p>Preço: $79.99</p>
+            <a href="https://pay.hotmart.com/H86999764H" target="_blank"><button>Comprar Agora</button></a>
         </div>
     </div>
 
@@ -200,6 +200,10 @@
         </div>
         <div class="testimonial">
             <img src="https://i.pinimg.com/750x/1f/b2/85/1fb2855191183d7c4a00dcbfe8ffa4bb.jpg" alt="Membro do Grupo FREE">
+            <p>Os sinais deste robô são incrivelmente precisos!</p>
+        </div>
+        <div class="testimonial">
+            <img src="https://i.pinimg.com/750x/fa/bd/74/fabd749a029bb6450a3b31ffea22293e.jpg" alt="Membro do Grupo FREE">
             <p>Os sinais deste robô são incrivelmente precisos!</p>
         </div>
         <h2>Como Funciona Os SINAIS</h2>
