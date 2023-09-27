@@ -219,6 +219,33 @@
             <img src="https://i.pinimg.com/750x/dc/2c/ad/dc2cad39c2677a2c631704048c8eb082.jpg" alt="Membro do Grupo FREE">
             <p>Estou impressionado com os resultados deste robô!</p>
         </div>
+
+        <div class="testimonial">
+            <img src="https://botcashroleta.com.br/wp-content/uploads/2023/03/03.jpeg" alt="Membro do Grupo FREE">
+            <p>Os sinais deste robô são incrivelmente precisos!</p>
+        </div>
+
+        <div class="testimonial">
+            <img src="https://botcashroleta.com.br/wp-content/uploads/2023/03/04.jpeg" alt="Membro do Grupo FREE">
+            <p>Os sinais deste robô são incrivelmente precisos!</p>
+        </div>
+        
+        <div class="testimonial">
+            <img src="https://botcashroleta.com.br/wp-content/uploads/2023/03/06.jpeg" alt="Membro do Grupo FREE">
+            <p>Os sinais deste robô são incrivelmente precisos!</p>
+        </div>
+
+        <div class="testimonial">
+            <img src="https://botcashroleta.com.br/wp-content/uploads/2023/03/05.jpeg" alt="Membro do Grupo FREE">
+            <p>Os sinais deste robô são incrivelmente precisos!</p>
+        </div>
+
+
+        <div class="testimonial">
+            <img src="https://botcashroleta.com.br/wp-content/uploads/2023/03/09.jpeg" alt="Membro do Grupo FREE">
+            <p>Os sinais deste robô são incrivelmente precisos!</p>
+        </div>
+
         <div class="testimonial">
             <img src="https://i.pinimg.com/750x/1f/b2/85/1fb2855191183d7c4a00dcbfe8ffa4bb.jpg" alt="Membro do Grupo FREE">
             <p>Os sinais deste robô são incrivelmente precisos!</p>
@@ -244,7 +271,6 @@
             <p>WIN</p>
         </div>
 
-        <iframe width="636" height="360" src="https://www.youtube.com/embed/VVsg9aGyDrc" title="HACKER DA ROLETA BRASILEIRA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
         <!-- Adicione mais depoimentos conforme necessário -->
     </div>
