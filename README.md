@@ -286,8 +286,7 @@
     <!-- Video sections for each robot -->
     <div class="container">
         <div class="video">
-            <iframe width="320" height="560" src="https://www.youtube.com/embed/eW5uRo1PWAI" title="Grupo de Sinais robo hacker da roleta brasileira" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>    
-
+        <iframe src="https://assets.pinterest.com/ext/embed.html?id=945967096714241666" height="525" width="236" frameborder="0" scrolling="no" ></iframe>
         </div>
     </div>
 </body>
