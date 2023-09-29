@@ -207,48 +207,48 @@
         <h2>Pessoas que Estão Tendo Lucro</h2>
         <div class="testimonial">
             <img src="https://botcashroleta.com.br/wp-content/uploads/2023/03/03.jpeg" alt="Membro do Grupo FREE">
-            <p>Os sinais deste robô são incrivelmente precisos!</p>
+            <p>O Robô que Faz Você Lucrar Todo Dia!</p>
         </div>
         
         <div class="testimonial">
             <img src="https://i.pinimg.com/750x/e0/eb/11/e0eb11ec0b0db46dd6b8a601dcd073f3.jpg" alt="Membro do Grupo FREE">
-            <p>Feliz em ver clientes Lucrando Todo Dia</p>
+            <p>Como Nossos Clientes Estão Lucrando Diariamente com Este Robô!</p>
         </div>      
 
 
         <div class="testimonial">
             <img src="https://botcashroleta.com.br/wp-content/uploads/2023/03/04.jpeg" alt="Membro do Grupo FREE">
-            <p>Os sinais deste robô são incrivelmente precisos!</p>
+            <p>Comece a Lucrar Hoje com Este Robô Altamente Preciso</p>
         </div>
         
         <div class="testimonial">
             <img src="https://botcashroleta.com.br/wp-content/uploads/2023/03/06.jpeg" alt="Membro do Grupo FREE">
-            <p>Os sinais deste robô são incrivelmente precisos!</p>
+            <p>Conheça o Segredo dos Investidores de Sucesso com Nosso Robô!</p>
         </div>
 
                 <div class="testimonial">
             <img src="https://i.pinimg.com/750x/dc/2c/ad/dc2cad39c2677a2c631704048c8eb082.jpg" alt="Membro do Grupo FREE">
-            <p>Estou impressionado com os resultados deste robô!</p>
+            <p>Lucros Diários ao Alcance das Suas Mãos</p>
         </div>
         
         <div class="testimonial">
             <img src="https://botcashroleta.com.br/wp-content/uploads/2023/03/05.jpeg" alt="Membro do Grupo FREE">
-            <p>Os sinais deste robô são incrivelmente precisos!</p>
+            <p>Este Robô Faz Você Lucrar Sempre!</p>
         </div>
 
 
         <div class="testimonial">
             <img src="https://botcashroleta.com.br/wp-content/uploads/2023/03/09.jpeg" alt="Membro do Grupo FREE">
-            <p>Os sinais deste robô são incrivelmente precisos!</p>
+            <p>Como Este Robô Está Gerando Lucros Diários para Nossos Clientes!</p>
         </div>
 
         <div class="testimonial">
             <img src="https://i.pinimg.com/750x/1f/b2/85/1fb2855191183d7c4a00dcbfe8ffa4bb.jpg" alt="Membro do Grupo FREE">
-            <p>Os sinais deste robô são incrivelmente precisos!</p>
+            <p>Alcance Seus Objetivos com Lucros Diários Usando Nosso Robô!</p>
         </div>
         <div class="testimonial">
             <img src="https://i.pinimg.com/750x/fa/bd/74/fabd749a029bb6450a3b31ffea22293e.jpg" alt="Membro do Grupo FREE">
-            <p>Os sinais deste robô são incrivelmente precisos!</p>
+            <p>Conquiste a Liberdade Financeira Agora!</p>
         </div>
         <div class="button-container">
             <h2>🏴‍☠️ Junte-se ao Grupo VIP Pirata Black! 🏴‍☠️</h2>
