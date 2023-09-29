@@ -206,11 +206,6 @@
     <div class="profit-section">
         <h2>Pessoas que Estão Tendo Lucro</h2>
         <div class="testimonial">
-            <img src="https://i.pinimg.com/750x/dc/2c/ad/dc2cad39c2677a2c631704048c8eb082.jpg" alt="Membro do Grupo FREE">
-            <p>Estou impressionado com os resultados deste robô!</p>
-        </div>
-
-        <div class="testimonial">
             <img src="https://botcashroleta.com.br/wp-content/uploads/2023/03/03.jpeg" alt="Membro do Grupo FREE">
             <p>Os sinais deste robô são incrivelmente precisos!</p>
         </div>
@@ -225,6 +220,11 @@
             <p>Os sinais deste robô são incrivelmente precisos!</p>
         </div>
 
+                <div class="testimonial">
+            <img src="https://i.pinimg.com/750x/dc/2c/ad/dc2cad39c2677a2c631704048c8eb082.jpg" alt="Membro do Grupo FREE">
+            <p>Estou impressionado com os resultados deste robô!</p>
+        </div>
+        
         <div class="testimonial">
             <img src="https://botcashroleta.com.br/wp-content/uploads/2023/03/05.jpeg" alt="Membro do Grupo FREE">
             <p>Os sinais deste robô são incrivelmente precisos!</p>
