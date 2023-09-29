@@ -331,5 +331,8 @@
     <div class="container">
         <div class="video">
         <iframe src="https://assets.pinterest.com/ext/embed.html?id=945967096714241666" height="525" width="236" frameborder="0" scrolling="no" ></iframe>
-        </div>
+        <iframe src="https://assets.pinterest.com/ext/embed.html?id=945967096714243968" height="520" width="236" frameborder="0" scrolling="no" ></iframe>
+        <iframe src="https://assets.pinterest.com/ext/embed.html?id=945967096714243972" height="520" width="236" frameborder="0" scrolling="no" ></iframe>
+        <iframe src="https://assets.pinterest.com/ext/embed.html?id=945967096714243973" height="714" width="345" frameborder="0" scrolling="no" ></iframe>
+    </div>
     </div>
