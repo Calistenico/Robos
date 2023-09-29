@@ -209,6 +209,12 @@
             <img src="https://botcashroleta.com.br/wp-content/uploads/2023/03/03.jpeg" alt="Membro do Grupo FREE">
             <p>Os sinais deste robô são incrivelmente precisos!</p>
         </div>
+        
+        <div class="testimonial">
+            <img src="https://i.pinimg.com/750x/e0/eb/11/e0eb11ec0b0db46dd6b8a601dcd073f3.jpg" alt="Membro do Grupo FREE">
+            <p>Feliz em ver clientes Lucrando Todo Dia</p>
+        </div>      
+
 
         <div class="testimonial">
             <img src="https://botcashroleta.com.br/wp-content/uploads/2023/03/04.jpeg" alt="Membro do Grupo FREE">
@@ -272,12 +278,6 @@
             <img src="https://i.pinimg.com/750x/cc/c9/01/ccc901e24f06a43edc5eae47ac3f8fa7.jpg" alt="Membro do Grupo FREE">
             <p>SIMPLES e FACIL!  e aguarde o WIN</p>
         </div>
-
-        <div class="testimonial">
-            <img src="https://i.pinimg.com/750x/e0/eb/11/e0eb11ec0b0db46dd6b8a601dcd073f3.jpg" alt="Membro do Grupo FREE">
-            <p>Feliz em ver clientes Lucrando Todo Dia</p>
-        </div>      
-
         
         <div class="testimonial">
             <img src="https://i.pinimg.com/750x/72/d1/e0/72d1e00dab87536057bc38e6334e5f1d.jpg" alt="Membro do Grupo FREE">
