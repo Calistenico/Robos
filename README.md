@@ -158,6 +158,37 @@
 
     </h1>
         <style>
+
+            .gif-container {
+                position: fixed;
+                top: 0;
+                width: 100%;
+                height: 100%;
+                z-index: -1;
+            }
+    
+            .gif-left,
+            .gif-right {
+                position: absolute;
+                width: 100px;
+                height: 100px;
+            }
+    
+            .gif-left {
+                left: 0;
+            }
+    
+            .gif-right {
+                right: 0;
+            }
+    
+            .countdown-gif {
+                position: fixed;
+                bottom: 0;
+                right: 0;
+                z-index: 1; /* Certifique-se de que o gif esteja acima do conteúdo, se necessário */
+            }
+            
             /* Estilos para o botão */
             button {
                 background-color: #FF5733; /* Cor de fundo vermelha */
@@ -178,6 +209,11 @@
 
 
     <div class="container">
+        <div class="gif-container">
+            <img class="gif-left" src="https://dynamix-cdn.s3.amazonaws.com/jacobandcocom/jacobandcocom_788777076.gif" alt="Gif Esquerda">
+            <img class="gif-right" src="https://dynamix-cdn.s3.amazonaws.com/jacobandcocom/jacobandcocom_788777076.gif" alt="Gif Direita">
+        </div>
+
         <div class="robot">
             <img src="https://clubedovideogame.com.br/wp-content/uploads/2022/08/RoletaBrasileira_b.jpg" alt="Robô Sinais da Roleta">
             <h2>Robo para mesa "Roleta Brasileira"</h2>
@@ -283,7 +319,10 @@
             <img src="https://i.pinimg.com/750x/72/d1/e0/72d1e00dab87536057bc38e6334e5f1d.jpg" alt="Membro do Grupo FREE">
             <p>WIN</p>
         </div>
+        <div class="testimonial">
+            <img src="https://cadernosdeatividadespequenoaprendiz.files.wordpress.com/2020/08/contagem-regressiva.gif?w=666" alt="Membro do Grupo FREE">
 
+        </div>
 
         <!-- Adicione mais depoimentos conforme necessário -->
     </div>
