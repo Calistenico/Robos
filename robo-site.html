@@ -175,7 +175,8 @@
                 background-color: #460202; /* Mudança de cor quando o cursor passa sobre o botão */
             }
         </style>
-
+        
+    </div>
 
 
     <div class="container">
@@ -193,6 +194,14 @@
             <p>Preço: $79.99</p>
             <a href="https://pay.hotmart.com/H86999764H" target="_blank"><button>Comprar Agora</button></a>
         </div>
+        <div class="robot">
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy1JtqAR1WtOFfQzLWjQgPZDSnMKePaQOaTQUPw88eeQw4JEC5q0Py4nBfCc5qBD5AVSs&usqp=CAU" alt="Robô Sinais da Roleta">
+            <h2>O Método Do Sucésso</h2>
+            <p>Estratégia Comprovada para o Sucesso com a ROLETA.</p>
+            <p>Preço: $24.99</p>
+            <a href="https://pay.hotmart.com/K87178671O" target="_blank"><button>Comprar Agora</button></a>
+        </div>
+
     </div>
 
     <!-- Seção para mostrar pessoas que estão tendo lucro -->
@@ -284,4 +293,3 @@
         </div>
     </div>
 </body>
-</html>
