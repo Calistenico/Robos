@@ -218,16 +218,23 @@
             <img src="https://clubedovideogame.com.br/wp-content/uploads/2022/08/RoletaBrasileira_b.jpg" alt="Robô Sinais da Roleta">
             <h2>Robo para mesa "Roleta Brasileira"</h2>
             <p>Receba sinais altamente precisos para a roleta brasileira com nosso robô especializado.</p>
-            <p>Preço: $69.99</p>
+            <p>Preço: $70,00</p>
             <a href="https://pay.hotmart.com/K86904999G" target="_blank"><button>Comprar Agora</button></a>
         </div>
         <div class="robot">
             <img src="https://assets.playtech.com/application/files/8915/9662/2643/playtech_pokerstars_spain_spinwin.jpg?version=1684399371" alt="Robô Sinais da Roleta">
             <h2>Robo para mesa "Spin e Win Rolette"</h2>
             <p>Receba sinais altamente precisos para a roleta Spin e Win com nosso robô especializado.</p>
-            <p>Preço: $79.99</p>
+            <p>Preço: $80,00</p>
             <a href="https://pay.hotmart.com/H86999764H" target="_blank"><button>Comprar Agora</button></a>
         </div>
+        <div class="robot">
+            <img src="https://hotmart.s3.amazonaws.com/product_pictures/5efc3710-a7a8-4904-bf54-5a981ce00095/ftgrupo.png" alt="Robô de horarios para Fortune Tiger">
+            <h2>Robo para Slots "Fortune Tiger"</h2>
+            <p>Receba Horarios altamente precisos para Fortune Tiger com nosso robô especializado.</p>
+            <p>Preço: $60,00</p>
+            <a href="https://pay.hotmart.com/L87226308D" target="_blank"><button>Comprar Agora</button></a>
+        </div
         <div class="robot">
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy1JtqAR1WtOFfQzLWjQgPZDSnMKePaQOaTQUPw88eeQw4JEC5q0Py4nBfCc5qBD5AVSs&usqp=CAU" alt="Robô Sinais da Roleta">
             <h2>O Método Do Sucésso</h2>
@@ -334,5 +341,4 @@
         <iframe src="https://assets.pinterest.com/ext/embed.html?id=945967096714243968" height="520" width="236" frameborder="0" scrolling="no" ></iframe>
         <iframe src="https://assets.pinterest.com/ext/embed.html?id=945967096714243972" height="520" width="236" frameborder="0" scrolling="no" ></iframe>
         <iframe src="https://assets.pinterest.com/ext/embed.html?id=945967096714243973" height="714" width="345" frameborder="0" scrolling="no" ></iframe>
-    </div>
     </div>
