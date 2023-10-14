@@ -218,8 +218,8 @@
             <img src="https://clubedovideogame.com.br/wp-content/uploads/2022/08/RoletaBrasileira_b.jpg" alt="Robô Sinais da Roleta">
             <h2>Robo para mesa "Roleta Brasileira"</h2>
             <p>Receba sinais altamente precisos para a roleta brasileira com nosso robô especializado.</p>
-            <p>Preço: $70,00</p>
-            <a href="https://pay.hotmart.com/K86904999G" target="_blank"><button>Comprar Agora</button></a>
+            <p>Preço: $99,99</p>
+            <a href="https://pay.hotmart.com/X87572914D" target="_blank"><button>Comprar Agora</button></a>
         </div>
         <div class="robot">
             <img src="https://assets.playtech.com/application/files/8915/9662/2643/playtech_pokerstars_spain_spinwin.jpg?version=1684399371" alt="Robô Sinais da Roleta">
@@ -227,6 +227,13 @@
             <p>Receba sinais altamente precisos para a roleta Spin e Win com nosso robô especializado.</p>
             <p>Preço: $80,00</p>
             <a href="https://pay.hotmart.com/H86999764H" target="_blank"><button>Comprar Agora</button></a>
+        </div>
+                <div class="robot">
+            <img src="https://assets.playtech.com/application/files/8915/9662/2643/playtech_pokerstars_spain_spinwin.jpg?version=1684399371" alt="Robô Sinais da Roleta">
+            <h2>Combo Com 5 Robôs"</h2>
+            <p>roleta spin win, roleta aovivo-br, roleta brasileira, roleta turbo, roleta linghtning</p>
+            <p>Preço: $165,00</p>
+            <a href="https://pay.hotmart.com/D87591957Y" target="_blank"><button>Comprar Agora</button></a>
         </div>
         <div class="robot">
             <img src="https://hotmart.s3.amazonaws.com/product_pictures/5efc3710-a7a8-4904-bf54-5a981ce00095/ftgrupo.png" alt="Robô de horarios para Fortune Tiger">
