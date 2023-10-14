@@ -229,7 +229,7 @@
             <a href="https://pay.hotmart.com/H86999764H" target="_blank"><button>Comprar Agora</button></a>
         </div>
                 <div class="robot">
-            <img src="https://assets.playtech.com/application/files/8915/9662/2643/playtech_pokerstars_spain_spinwin.jpg?version=1684399371" alt="Robô Sinais da Roleta">
+            <img src="https://primeirahora.com.br/wp-content/uploads/2022/11/cassino-roleta.jpg" alt="Robô Sinais da Roleta">
             <h2>Combo Com 5 Robôs"</h2>
             <p>roleta spin win, roleta aovivo-br, roleta brasileira, roleta turbo, roleta linghtning</p>
             <p>Preço: $165,00</p>
