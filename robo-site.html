@@ -219,7 +219,7 @@
             <h2>Robo para mesa "Roleta Brasileira"</h2>
             <p>Receba sinais altamente precisos para a roleta brasileira com nosso robô especializado.</p>
             <p>Preço: $99,99</p>
-            <a href="https://pay.hotmart.com/X87572914D" target="_blank"><button>Comprar Agora</button></a>
+            <a href="https://pay.kiwify.com.br/G2unHGZ" target="_blank"><button>Comprar Agora</button></a>
         </div>
         <div class="robot">
             <img src="https://assets.playtech.com/application/files/8915/9662/2643/playtech_pokerstars_spain_spinwin.jpg?version=1684399371" alt="Robô Sinais da Roleta">
