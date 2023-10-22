@@ -232,8 +232,8 @@
             <img src="https://img.freepik.com/fotos-premium/mesa-vermelha-para-jogar-roleta-e-fichas-em-fundo-de-elementos-de-cassino-generativo-ai_124507-70015.jpg" alt="Robô Sinais da Roleta">
             <h2>Combo Com 5 Robôs"</h2>
             <p>roleta spin win, roleta aovivo-br, roleta brasileira, roleta turbo, roleta linghtning</p>
-            <p>Preço: $165,00</p>
-            <a href="https://pay.hotmart.com/D87591957Y" target="_blank"><button>Comprar Agora</button></a>
+            <p>Preço: $150,00</p>
+            <a href="https://pay.kiwify.com.br/JeCItBx" target="_blank"><button>Comprar Agora</button></a>
         </div>
 
     </div>
