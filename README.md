@@ -222,11 +222,11 @@
             <a href="https://pay.kiwify.com.br/G2unHGZ" target="_blank"><button>Comprar Agora</button></a>
         </div>
         <div class="robot">
-            <img src="https://assets.playtech.com/application/files/8915/9662/2643/playtech_pokerstars_spain_spinwin.jpg?version=1684399371" alt="Robô Sinais da Roleta">
-            <h2>Robo para mesa "Spin e Win Rolette"</h2>
+            <img src="https://www.gamblingsites.org/app/uploads/2021/01/5-Good-Reasons-to-Give-Roulette-a-Spin.jpg" alt="Robô Sinais da Roleta">
+            <h2>Robo para mesa "Roullete A"</h2>
             <p>Receba sinais altamente precisos para a roleta Spin e Win com nosso robô especializado.</p>
-            <p>Preço: $80,00</p>
-            <a href="https://pay.hotmart.com/H86999764H" target="_blank"><button>Comprar Agora</button></a>
+            <p>Preço: $100,00</p>
+            <a href="https://pay.kiwify.com.br/4uMn3B6" target="_blank"><button>Comprar Agora</button></a>
         </div>
                 <div class="robot">
             <img src="https://primeirahora.com.br/wp-content/uploads/2022/11/cassino-roleta.jpg" alt="Robô Sinais da Roleta">
