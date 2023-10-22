@@ -235,20 +235,6 @@
             <p>Preço: $165,00</p>
             <a href="https://pay.hotmart.com/D87591957Y" target="_blank"><button>Comprar Agora</button></a>
         </div>
-        <div class="robot">
-            <img src="https://hotmart.s3.amazonaws.com/product_pictures/5efc3710-a7a8-4904-bf54-5a981ce00095/ftgrupo.png" alt="Robô de horarios para Fortune Tiger">
-            <h2>Robo para Slots "Fortune Tiger"</h2>
-            <p>Receba Horarios altamente precisos para Fortune Tiger com nosso robô especializado.</p>
-            <p>Preço: $60,00</p>
-            <a href="https://pay.hotmart.com/L87226308D" target="_blank"><button>Comprar Agora</button></a>
-        </div>
-        <div class="robot">
-            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy1JtqAR1WtOFfQzLWjQgPZDSnMKePaQOaTQUPw88eeQw4JEC5q0Py4nBfCc5qBD5AVSs&usqp=CAU" alt="Robô Sinais da Roleta">
-            <h2>O Método Do Sucésso</h2>
-            <p>Estratégia Comprovada para o Sucesso com a ROLETA.</p>
-            <p>Preço: $24.99</p>
-            <a href="https://pay.hotmart.com/K87178671O" target="_blank"><button>Comprar Agora</button></a>
-        </div>
 
     </div>
 
